@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffreyshijo
-- 👀 I’m interested in Machine Learning and blockchain technology
-- 🌱 I’m currently learning pythin and machine learning..
+- 👀 I’m interested in Machine Learning and its applications..
+- 🌱 I’m currently learning python and machine learning..
 - 💞️ I’m looking to collaborate on machine learning projects...
 - 📫 Mailing me through my personal portfolio would be helpful...
 
